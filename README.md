@@ -9,6 +9,8 @@ The project contains:
 
 Everything is in Russian, but I can translate it to English if someone would need it.
 
+______________________________________________________________________________________
+
 Процесс регистрации нового абонента в приложении оператора мобильной связи.
 
 Содержит в себе:
